@@ -15,12 +15,11 @@
 
  <div style="display: inline_block">
   <h3> SoftSkills: </h3>
-  <a href="https://github.com/DjalmaHenry">
+  <a href="https://github.com/paulocesargit">
    <img align="center" alt="React" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Node.js" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
    <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Dart" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   </a>
  </div> 
  
