@@ -8,7 +8,6 @@
    <h3> About: </h3>
    <p>- 👨‍💻 T.I Senac PE </p>
   <a href="https://portfolio.djalmahenry.com/">
-   <img alt="astronauta" src="https://portfolio.djalmahenry.com/assets/dj-dev-illustration.png" width="30%" align="right" style="margin-top: 80px">
    </a
    <p>- 💼 Full Stack Developer </p>
    <p>- 🇧🇷  I'm From Brazil, Pernambuco, Recife.</p>
@@ -38,7 +37,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulocesargit&layout=compact&langs_count=16&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulocesargit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    
-![Snake animation](https://github.com/paulocesargit/paulocesargit/blob/output/github-contribution-grid-snake.svg)
   </a>
  </div>
 </div>
