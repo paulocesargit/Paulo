@@ -1,0 +1,156 @@
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+header nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+header nav a:hover {
+    color: #ccc;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em;
+}
+
+.hero {
+    background-image: linear-gradient(to bottom, #0e12fa, #0e12eb);
+    background-size: 50% 200px;
+    background-position: 0% 100%;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #e9e6ed;
+}
+
+.hero h1 {
+    font-size: 50px;
+    margin-bottom: 50px;
+
+}
+
+.hero button {
+    background-color: #ffffff;
+    color: #333;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.hero button:hover {
+    background-color: #ccc;
+}
+
+.sobre {
+    background-color: #f7f7f7;
+    padding: 2%;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.sobre img {
+    width: 20%;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom:10px;
+}
+
+.servicos {
+    background-color: #f7f7f7;
+    padding: 2em;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.servicos ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.servicos li {
+    margin-bottom: 20px;
+}
+
+.servicos h3 {
+    margin-top: 0;
+}
+
+.portfolios {
+    background-color: #f7f7f7;
+    padding: 2em;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.portfolios ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.portfolios li {
+    margin-bottom: 20px;
+}
+
+.portfolios img {
+    width: 50%;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.contato {
+    background-color: #f7f7f7;
+    padding: 3%;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contato form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contato input, .contato textarea {
+    width: 80%;
+    padding: 25px;
+    margin-bottom: 30px;
+    border: 1px solid #ccc;
+}
+
+.contato button {
+    background-color: #790af7;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.contato button:hover {
+    background-color: #eeeeee;
+}
+
+footer {
+    background-color: #2a06f9;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+    clear: both;
+}
