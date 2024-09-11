@@ -6,4 +6,4 @@ Sinta-se à vontade para explorar o código, sugerir melhorias ou usar como refe
 
 ## Como acessar o projeto? 🤔
 
-Basta clicar [AQUI](https://paulocesargit.github.io/Portifolio-pessoal/portifoliodosite/index.html) que você será direcionado!
+Basta clicar [AQUI](https://paulocesargit.github.io/Portifolio-pessoal/portifoliodosite/) que você será direcionado!
